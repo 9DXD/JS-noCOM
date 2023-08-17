@@ -1,5 +1,5 @@
 javascript:(function() {
-    var scriptURL = "https://github.com/9DXD/JS-noCOM/script.js"; // Replace with your script URL
+    var scriptURL = "https://github.com/9DXD/JS-noCOM/blob/master/script.js"; // Replace with your script URL
     //var interval = 60000; // Check for updates every 60 seconds (1 minute)
 
     function loadScript() {
